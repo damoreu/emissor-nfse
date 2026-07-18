@@ -1,0 +1,11 @@
+{
+  "dados": {
+    "versao": "1.2.0",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.2.0/EmissorNFSe-1.2.0.zip",
+    "sha256": "1a21ee182c09b60f37efe47a016d88b79a9d2bfe304702a0094d6360cb7f55a8",
+    "tamanho": 57249831,
+    "notas": "Correções de estabilidade.",
+    "obrigatoria": false
+  },
+  "assinatura": "jAjX8TZVFnDOjr0KcBmq3Jnf4kdjJMFiqeKiFCIpaxVoVna4pFEifbUtAsRHTtm//vpP/FDBtSj9TXv0xzRjjgukJlO/1N9E/Lv/iaY20YbM0gvhTKCnaNUtshgAaCV2Xu9UxQhtwtv/PVwLXOcKZFYkwfv9+aWKdnPiUYy3AoTVECeoAWoOivicrhlODy8/vDFD36JXL6+H+1L1JzxxNHzXtrttye2EEj/hj/FDljn3k/Rlnv73//iCeEtaJ3VfKYyR9Us5dWAG3Fk6ZjHzN65W4/JWD6GP/aPGubCIdz+JVJgLeDJgGnpY+CYnjA+PMn5wxf1wROvEYa0adGFtIQ=="
+}
