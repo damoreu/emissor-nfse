@@ -1,11 +1,11 @@
 {
   "dados": {
-    "versao": "1.2.2",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.2.2/EmissorNFSe-1.2.2.zip",
-    "sha256": "bf59215aa3aafb3911b4a0068d91871052a8d6e633c210201c3870e0e587d497",
-    "tamanho": 57251922,
-    "notas": "Abertura mais robusta (recria o cadastro se faltar) e ambiente fixo no cliente (sem interruptor de homologação/produção).",
-    "obrigatoria": false
+    "versao": "1.2.3",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.2.3/EmissorNFSe-1.2.3.zip",
+    "sha256": "9655590bff7fdbb34825451838f00d9df8bdd702e56553ad374227f69868a577",
+    "tamanho": 57252749,
+    "notas": "Correção importante do instalador de atualizações (a troca automática de versão não concluía). Inclui também: cadastro recriado se faltar e ambiente fixo no cliente.",
+    "obrigatoria": true
   },
-  "assinatura": "RWFytBQEx/Lino3SylIrglGsoqFLlbG/psORVZc9sG8KLmTZtmtsaTBootydkoYCTm1xaNh5dsRJwmoeQO+F2luOUx79gzIg1F44Lw+BF5juIlBY7u8QEDJWLU/ALaGaHO1oHkzVJDFZGoDij8UWN0oeeDynx3K5w2BXPH3GBQM4M5iaOeo8tV0SyGOaFf6jIn2rv27FfI1MmneNQOEa/S+epXB7GKn6/JnT1N7HvlfJk2uYxKgowNVRedtq+L9a7bJVVAqKKbwnWFKJW8h5uMNr9WS98ipjqFL+BNh0AWCvQUsV7lRbCHcdonoZ6N2eh+qGfQ4q61F8JCpoVJ4iDQ=="
+  "assinatura": "aWFKtFhWgxeDy9J6emIqC2WwDoaeQNUqjizd0jm+U17bvZreY15q/dOkihYKBAbDSU5CxDvPfO6ftJ2whbM7S858PFbOIhRBa9s49bCQmrr54OD4Rl2iH75f25M1ald/umRW363QzKMHOPsX2qXBfeARo+UphjsC8H9StGJimEPPvCLnXLLVfgdT9S4LreV6Xa4j42zY3uQHM2JOGsT38RHfQ+bog7eh1LHEN8hq3lf8DuK2fGKecvLZSCjQvT+NRUiWWDzN4/nRxR9JEAGgeHfGgf+Lb82/E7ZYwPlLkIS+uLakEzn2Bnem6PHzwwECSCrZQZfDLdbkSxRhyBf0UA=="
 }
