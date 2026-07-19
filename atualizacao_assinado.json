@@ -1,11 +1,11 @@
 {
   "dados": {
-    "versao": "1.2.0",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.2.0/EmissorNFSe-1.2.0.zip",
-    "sha256": "1a21ee182c09b60f37efe47a016d88b79a9d2bfe304702a0094d6360cb7f55a8",
-    "tamanho": 57249831,
-    "notas": "Correções de estabilidade.",
+    "versao": "1.2.1",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.2.1/EmissorNFSe-1.2.1.zip",
+    "sha256": "273d4de265500e093c67725c3342dab4bd50a1c06abf4c662fe5deb497e0d621",
+    "tamanho": 57252642,
+    "notas": "Abertura mais robusta: se o cadastro de empresas faltar, o programa recria em branco em vez de dar erro.",
     "obrigatoria": false
   },
-  "assinatura": "jAjX8TZVFnDOjr0KcBmq3Jnf4kdjJMFiqeKiFCIpaxVoVna4pFEifbUtAsRHTtm//vpP/FDBtSj9TXv0xzRjjgukJlO/1N9E/Lv/iaY20YbM0gvhTKCnaNUtshgAaCV2Xu9UxQhtwtv/PVwLXOcKZFYkwfv9+aWKdnPiUYy3AoTVECeoAWoOivicrhlODy8/vDFD36JXL6+H+1L1JzxxNHzXtrttye2EEj/hj/FDljn3k/Rlnv73//iCeEtaJ3VfKYyR9Us5dWAG3Fk6ZjHzN65W4/JWD6GP/aPGubCIdz+JVJgLeDJgGnpY+CYnjA+PMn5wxf1wROvEYa0adGFtIQ=="
+  "assinatura": "cRuy9aLX0BmG0AOYpEjjpLwPAKDGoWp9VLlBNg048kOmpYhVIuA92mrkD4VcurzSkv96TEWktLNB6DgBi3cgjQH8ZHKam+O4U9V0LXduyjg98iFAnj7gUm/sOEfDboE7YprFqPw4BLKWbvA8rM8dOrC7Pa+YMxqTCaVewBRQ9azLHAtmF572/1okecZZ0VzXn/VqXzjouzIxXUAUp/SifW83Yc5shey72nw/mFppsdtHcpQanQd5UXVLS6Kl4qzFbiV+mGSZpLd7sItVPkSeRq0xbSNZ0djxci/aJIX9IPMAq4tyJtPFBFiIW75BOdDq32FPjuaIqZvxH4AdCZj1RA=="
 }
