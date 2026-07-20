@@ -1,0 +1,61 @@
+LICENÇA DE SOFTWARE PROPRIETÁRIO
+
+Copyright © 2026 Matheus Damore Ucha. Todos os direitos reservados.
+
+Emissor de NFS-e ("o Software") — incluindo, sem limitação, seu código-fonte,
+código objeto, executáveis, bibliotecas, arquivos de dados, layouts, interface,
+documentação e quaisquer materiais relacionados — é obra proprietária e
+confidencial de Matheus Damore Ucha ("o Titular"), protegida pelas leis de
+direito autoral do Brasil (Lei nº 9.610/1998 e Lei nº 9.609/1998) e por tratados
+internacionais.
+
+1. RESERVA DE DIREITOS
+   Todos os direitos sobre o Software são reservados ao Titular. Nenhum direito,
+   licença ou autorização de uso é concedido, seja de forma expressa, implícita,
+   por preclusão ou de qualquer outro modo, exceto mediante contrato de licença
+   assinado por escrito com o Titular.
+
+2. PROIBIÇÕES
+   Salvo autorização prévia e expressa, por escrito, do Titular, é PROIBIDO a
+   qualquer pessoa física ou jurídica:
+   (a) usar, executar ou colocar o Software em operação;
+   (b) copiar, reproduzir, baixar ou armazenar o Software, no todo ou em parte;
+   (c) distribuir, sublicenciar, vender, alugar, emprestar ou disponibilizar o
+       Software a terceiros, por qualquer meio;
+   (d) modificar, adaptar, traduzir ou criar obras derivadas;
+   (e) realizar engenharia reversa, descompilar, desmontar ou de qualquer forma
+       tentar obter o código-fonte a partir do código objeto ou executável;
+   (f) remover, ocultar ou alterar avisos de copyright, marcas ou qualquer
+       identificação de titularidade.
+
+   O fato de este repositório ou de qualquer cópia do Software estar acessível
+   publicamente NÃO constitui autorização de uso e NÃO transfere qualquer direito.
+
+3. LICENCIAMENTO E VALIDAÇÃO
+   O uso do Software é permitido exclusivamente a clientes que possuam licença
+   válida e vigente, concedida pelo Titular e vinculada a CNPJ autorizado. O
+   Software incorpora mecanismos de validação de licença; a tentativa de burlar,
+   desativar ou contornar tais mecanismos constitui violação desta licença e da
+   legislação aplicável.
+
+4. AUSÊNCIA DE GARANTIA
+   O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIAS DE
+   QUALQUER NATUREZA, EXPRESSAS OU IMPLÍCITAS, INCLUINDO, SEM LIMITAÇÃO, GARANTIAS
+   DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM FIM ESPECÍFICO E NÃO VIOLAÇÃO.
+
+5. LIMITAÇÃO DE RESPONSABILIDADE
+   Em nenhuma hipótese o Titular será responsável por quaisquer danos diretos,
+   indiretos, incidentais, especiais, punitivos ou consequenciais decorrentes do
+   uso ou da impossibilidade de uso do Software.
+
+6. VIOLAÇÃO
+   O uso ou a exploração não autorizada do Software sujeita o infrator às sanções
+   civis e criminais previstas na legislação, incluindo perdas e danos, sem
+   prejuízo de outras medidas cabíveis.
+
+7. LEGISLAÇÃO E FORO
+   Esta licença é regida pelas leis da República Federativa do Brasil. Fica eleito
+   o foro do domicílio do Titular para dirimir eventuais controvérsias, com
+   renúncia a qualquer outro, por mais privilegiado que seja.
+
+Para solicitar autorização ou licença de uso, contate o Titular.
