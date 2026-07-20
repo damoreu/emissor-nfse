@@ -1,11 +1,11 @@
 {
   "dados": {
-    "versao": "1.2.4",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.2.4/EmissorNFSe-1.2.4.zip",
-    "sha256": "248dc4b1fa98dd860cf649a2546ac77f5f27b19ec28f47d4ed2df946d5737e2f",
-    "tamanho": 57253509,
-    "notas": "Melhorias visuais (botões do intermediário que ficavam cortados em algumas telas, checkboxes no tema escuro) e consulta de CNPJ mais confiável (segunda fonte de dados quando a primeira está fora do ar).",
+    "versao": "1.2.5",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.2.5/EmissorNFSe-1.2.5.zip",
+    "sha256": "c3986fc4fbda5be1cad77d12d17d956d0e6adde8e8da51e827f8e5a2e26548bb",
+    "tamanho": 57258281,
+    "notas": "Endereço do intermediário: quando a Receita não informa a rua (comum em MEI), o programa agora busca pelo CEP e preenche com o tipo certo (Rua, Avenida, Travessa). O PDF da nota passa a trazer o brasão da prefeitura, e quando não há tomador identificado a caixa fica compacta em vez de ocupar meia página. Em telas menores, as janelas se ajustam à resolução (o botão de importar não fica mais escondido) e os campos do intermediário não são mais cortados. Ao trocar de empresa, a data de emissão volta para hoje.",
     "obrigatoria": false
   },
-  "assinatura": "pip9qtG6mNr4gbaE4hvC+U0Y8wcRHVf7L/tjTd8KYXlvrI8T1qtv3jaLRwedFEXHRPY1Cmdw0F+dvs+BJsWrCJH597ppwX6Gw0CMgEwlupchaXQ844v2y/F5pKq5WK0nsvPAiqUGDZpr7V0cnwVbX3W19oOjBbYht1NzzP4MEZzYKmN/d47n+dq0nGozVK1AsIse/1txq80kSEUts2TW6qx/ZM6AAuV3c6DrQYN6mUQROyqhzc14Cl162ez08L6S7Onk5YQ5szgDiQMneJz/xmi0TQ6JjwuuybMdFc/AgB1W1naSHUvbokXJ2SCH7YFXGfC9dotUSKE6ZKp7XOyjAA=="
+  "assinatura": "as0W2htxOLRtrfvNQmksHuMFVG6nCcfSpLpfRqcj3wRh1f4w6PFm0FFBxJZADqi7c5GZxUM31G5Knh1O0dtDjyPxJuvH7yEEqDaPFtI1JpSpE2bE00fjRxNohkTT77XRDfvOCvA42If05jfo6HLPAxKCWIfjEEIvQCcPPgZdU1yw0fU/x+OHtTc4eKes/Z/yNNN7PUBbE3AbBkF3m7eNkwQ0xAVeITo3s3lxI08UY4wYYCnM+NypezOz8i4X1Wcs7N0poZPkmnGvGpyiIh+SkqQEV6Os1Szxq5qXmi3WKA+YLo1dtIn5cwRVJQr78oGn9AL4Dfh8iONgvMosdgqlYw=="
 }
