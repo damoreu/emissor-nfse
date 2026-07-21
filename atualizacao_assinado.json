@@ -1,11 +1,11 @@
 {
   "dados": {
-    "versao": "1.2.7",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.2.7/EmissorNFSe-1.2.7.zip",
-    "sha256": "5b3496e5eb8a5d79ccc5493af1b38e4b375397700ca6936ab8adf45728a8db32",
-    "tamanho": 57259943,
-    "notas": "A situação da licença passa a aparecer já na validação do certificado, ao cadastrar uma empresa: se o CNPJ não estiver liberado, o aviso vem na hora, em vez de só na tentativa de emitir depois de todo o cadastro preenchido. Sem internet o cadastro continua permitido, com aviso. Inclui tudo da 1.2.6: brasão da prefeitura nos PDFs (inclusive dos serviços tomados), endereço do intermediário completado pelo CEP quando a Receita não informa a rua, caixa compacta quando não há tomador identificado, janelas ajustadas a telas menores e data de emissão que volta para hoje ao trocar de empresa.",
+    "versao": "1.2.8",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.2.8/EmissorNFSe-1.2.8.zip",
+    "sha256": "d1c19b207fc2ea2a64f9e60477db8ae19e9af555744b8c233e9acf15d0a2c96a",
+    "tamanho": 57261687,
+    "notas": "Corrige a emissão de empresas do regime geral (não optantes do Simples) com ISS retido pelo tomador: a nota travava com o erro E0617 (\"não é permitido informar alíquota\") mesmo sem você digitar a alíquota. Agora o emissor não envia mais a alíquota do ISS no regime geral — quem calcula o ISSQN é o próprio sistema nacional, pela alíquota que o município tem cadastrada. No Simples Nacional nada muda.",
     "obrigatoria": false
   },
-  "assinatura": "SPr90TybjBhhnLdz1JsDcrxaP9cT5qUyhENlBwcG0roy6QaT2ou0ui7Llx6Nt2aKyeuLK/etrpqMmEi1Mzb5O2LTr7QeEG2CdhcT9UGpGIGL+rf4sC9moSacloV8NhhwI/D8kKRw6JU+SRly+WGntPRgshacZ2asYHrWiSVHYBN5+x7WAX4FW5Jg0tna8TF1CqOTH3UaYHfWOgKzCUveHidxbOLg88JC804+/IPXIE8IDLwFT3p/h8o9h7W+xaGzIPFQ76rwPbbYcKPOxd5cwbL12rha5SXaddFXDhK8oe+W6aW2t1tqg8hHp2SD2jTSU1H2GW3tNddxrSOMFxXcyg=="
+  "assinatura": "lQTxszu9e61KXVsKGV1qRe78snXwBDy9h6ptiHEpvhw0aJFJQHziuAdc/Y1uUdDJGwanekPrya9TOWYbJ9p1Az8F8fv/s15m+9d5s1yEeGJbrjXdg9NahNGir2q2ha4xEp3POZwJLOWymfs0T9a1FNaOb2MBq5iauCe3CbdhHiiqMXs5ZkBjMQ1+/2XHuic3iRIuG3q0SpylnL0zfjKUuGRBC4AJOU32nTWV6JmsSVWx5bisGizDMjx8PbPUgy/BRgPAm+VvYDPe3qF90z1GMnquhJxHdKz2TLqqKNEXZ/ZoAPgyVUkmWSauzUPHFFdNdejlRtmwbjKqemECeAxYGQ=="
 }
