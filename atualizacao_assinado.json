@@ -1,11 +1,11 @@
 {
   "dados": {
-    "versao": "1.2.8",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.2.8/EmissorNFSe-1.2.8.zip",
-    "sha256": "d1c19b207fc2ea2a64f9e60477db8ae19e9af555744b8c233e9acf15d0a2c96a",
-    "tamanho": 57261687,
-    "notas": "Corrige a emissão de empresas do regime geral (não optantes do Simples) com ISS retido pelo tomador: a nota travava com o erro E0617 (\"não é permitido informar alíquota\") mesmo sem você digitar a alíquota. Agora o emissor não envia mais a alíquota do ISS no regime geral — quem calcula o ISSQN é o próprio sistema nacional, pela alíquota que o município tem cadastrada. No Simples Nacional nada muda.",
+    "versao": "1.4.0",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.4.0/EmissorNFSe-1.4.0.zip",
+    "sha256": "0bd26e8700b0c7b307fd9ae0ba1180776c047a2500c7e8d9b414458c338c0b48",
+    "tamanho": 84816441,
+    "notas": "Leitura e agilidade na emissão. TAMANHO DA LETRA ajustável (100%, 125%, 150% ou 175%) no rodapé da barra lateral: a tela inteira acompanha e a escolha fica salva — para quem estava com dificuldade de enxergar. BARRA LATERAL RECOLHÍVEL pelo botão ☰ ou por Ctrl+B; escondida, os campos da nota ocupam a tela toda. DESCRIÇÃO DO SERVIÇO começa com o dobro do tamanho e cresce sozinha conforme você digita, sem cortar o texto. BUSCA DE ENDEREÇO POR CEP no bloco do tomador: informe o CEP e vêm logradouro, bairro e cidade — é o caminho do tomador pessoa física, que não tem consulta por documento. BASE DAS RETENÇÕES já vem preenchida com o valor da nota, e continua editável. VALOR LÍQUIDO na confirmação da emissão, com o detalhe das retenções e descontos, para conferir quanto se recebe de fato.",
     "obrigatoria": false
   },
-  "assinatura": "lQTxszu9e61KXVsKGV1qRe78snXwBDy9h6ptiHEpvhw0aJFJQHziuAdc/Y1uUdDJGwanekPrya9TOWYbJ9p1Az8F8fv/s15m+9d5s1yEeGJbrjXdg9NahNGir2q2ha4xEp3POZwJLOWymfs0T9a1FNaOb2MBq5iauCe3CbdhHiiqMXs5ZkBjMQ1+/2XHuic3iRIuG3q0SpylnL0zfjKUuGRBC4AJOU32nTWV6JmsSVWx5bisGizDMjx8PbPUgy/BRgPAm+VvYDPe3qF90z1GMnquhJxHdKz2TLqqKNEXZ/ZoAPgyVUkmWSauzUPHFFdNdejlRtmwbjKqemECeAxYGQ=="
+  "assinatura": "NH+hLFt1tGv3489c2voUyI9QCowVcny7aQxJ4puIbKVbD0gPp+mjIL5frHyOzwQ0tnsXswdlIQQCtS4t5+FqoxJDmRxiTd+bBUzSIj0ObmGWDp+goUwsQXieLCynzEBAXxIDb57zk17aikeHyviKwykx6IXnF4B1CXSPzylutXkugzhDs8Acks5Rs4HaP9YEolQ/oPKc+jl5Z2s1+BCcUY96slNOAz1b+4WOsRn9wy21UMu63DGYz5QMBZkIiex5cfyuncMNwPbDutBRRWGAlUao8KYqPCru9MpVM6QmGfnLmmwza6Ou/s67YYZAs3dA3XSvC12LX0os+xQ54/DVgg=="
 }
