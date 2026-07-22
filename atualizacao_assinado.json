@@ -1,11 +1,11 @@
 {
   "dados": {
-    "versao": "1.4.0",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.4.0/EmissorNFSe-1.4.0.zip",
-    "sha256": "0bd26e8700b0c7b307fd9ae0ba1180776c047a2500c7e8d9b414458c338c0b48",
-    "tamanho": 84816441,
-    "notas": "Leitura e agilidade na emissão. TAMANHO DA LETRA ajustável (100%, 125%, 150% ou 175%) no rodapé da barra lateral: a tela inteira acompanha e a escolha fica salva — para quem estava com dificuldade de enxergar. BARRA LATERAL RECOLHÍVEL pelo botão ☰ ou por Ctrl+B; escondida, os campos da nota ocupam a tela toda. DESCRIÇÃO DO SERVIÇO começa com o dobro do tamanho e cresce sozinha conforme você digita, sem cortar o texto. BUSCA DE ENDEREÇO POR CEP no bloco do tomador: informe o CEP e vêm logradouro, bairro e cidade — é o caminho do tomador pessoa física, que não tem consulta por documento. BASE DAS RETENÇÕES já vem preenchida com o valor da nota, e continua editável. VALOR LÍQUIDO na confirmação da emissão, com o detalhe das retenções e descontos, para conferir quanto se recebe de fato.",
+    "versao": "1.4.1",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.4.1/EmissorNFSe-1.4.1.zip",
+    "sha256": "2c278797dffe211860bd36114d2bcdf04f44a5e66d01d2dafa7ff96b22d810f9",
+    "tamanho": 84816283,
+    "notas": "Leitura e agilidade na emissão. TAMANHO DA LETRA ajustável (100%, 125%, 150% ou 175%): a tela inteira acompanha e a escolha fica salva — para quem estava com dificuldade de enxergar. Fica no rodapé da barra lateral e também no menu Ajuda > Tamanho da letra. BARRA LATERAL RECOLHÍVEL pelo botão ☰ ou por Ctrl+B; escondida, os campos da nota ocupam a tela toda. DESCRIÇÃO DO SERVIÇO começa com o dobro do tamanho e cresce sozinha conforme você digita, sem cortar o texto. BUSCA DE ENDEREÇO POR CEP no bloco do tomador: informe o CEP e vêm logradouro, bairro e cidade — é o caminho do tomador pessoa física, que não tem consulta por documento. BASE DAS RETENÇÕES já vem preenchida com o valor da nota, e continua editável. VALOR LÍQUIDO na confirmação da emissão, com o detalhe das retenções e descontos, para conferir quanto se recebe de fato.",
     "obrigatoria": false
   },
-  "assinatura": "NH+hLFt1tGv3489c2voUyI9QCowVcny7aQxJ4puIbKVbD0gPp+mjIL5frHyOzwQ0tnsXswdlIQQCtS4t5+FqoxJDmRxiTd+bBUzSIj0ObmGWDp+goUwsQXieLCynzEBAXxIDb57zk17aikeHyviKwykx6IXnF4B1CXSPzylutXkugzhDs8Acks5Rs4HaP9YEolQ/oPKc+jl5Z2s1+BCcUY96slNOAz1b+4WOsRn9wy21UMu63DGYz5QMBZkIiex5cfyuncMNwPbDutBRRWGAlUao8KYqPCru9MpVM6QmGfnLmmwza6Ou/s67YYZAs3dA3XSvC12LX0os+xQ54/DVgg=="
+  "assinatura": "oQo0fDTg+tVx5FvAID1C7QFZs983NP1tX7RStCPWPo1UXjGGdShpk8F9Kf/ckK9ml/MkCLyV+BvfkZH8wiDDCxf1r/BsJYkD9usNPQ+QRQXJz8b70O6ohp1Wz3XiQy9u7CvTJHe5REeXA8UZcQ2gi9L8CB//Wdwqc+Jx0k6ULn6i0CJ4dJg98Ok8crdSuHelc/bORtvFnsigKnyI92Ajb+QsJdWODA8QD79xNZhnkLhJ3zLXRr2X2rx+u2BpbcA+4ZvBtJ23F1CR6n3U+JdCMBe802Aob1bBkh3fJB4vZ8+2A3eanOTeXeIB/I5j5NO5RN+I7+oMeq9vaMwnAKPyOg=="
 }
