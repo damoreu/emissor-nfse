@@ -1,11 +1,11 @@
 {
   "dados": {
-    "versao": "1.5.0",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.5.0/EmissorNFSe-1.5.0.zip",
-    "sha256": "c95493050959494977e4959e4a5f78f0c6425101342b9ee1fcb63f2cce4f8562",
-    "tamanho": 84819340,
-    "notas": "Novidades. CAMPO 'INFORMAÇÕES COMPLEMENTARES' no bloco de serviço: use para a discriminação detalhada (períodos, itens, observações) que a nota imprime no rodapé 'INFORMAÇÕES COMPLEMENTARES', deixando a descrição do serviço curta. É opcional — quem não preencher, a nota sai como sempre. A caixa cresce sozinha conforme você digita, igual à descrição. A DANFSE (e o PDF gerado ao baixar notas) passam a mostrar esse texto. Melhorias internas de compatibilidade com municípios que usam o mesmo padrão nacional por outros provedores.",
+    "versao": "1.5.1",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.5.1/EmissorNFSe-1.5.1.zip",
+    "sha256": "c3d455e4d60c01df5ffa687b0cc75b4740fc4e72ec3a8d7b9ddcaa456e9345f9",
+    "tamanho": 84820968,
+    "notas": "Ajuste no cadastro de empresas. A tela de cadastrar/editar empresa agora tem os campos 'Provedor' e 'Inscrição Municipal', para empresas de municípios que emitem pelo padrão nacional por outro provedor (ex.: Canoas/INFISC): basta escolher o provedor e informar a inscrição municipal, sem editar planilha. Para o Emissor Nacional, é só deixar o provedor em 'Nacional' e a inscrição em branco — nada muda. Também inclui o campo 'Informações complementares' da versão anterior (discriminação detalhada que sai no rodapé da nota).",
     "obrigatoria": false
   },
-  "assinatura": "gk/0kC5zLuPDv1H0tIwRbVedpxjG2iaBl8I8dtriLc9eemuBG+IT+d8scBXmh1RDtiONJSqh0GI5yku/44tJgOPAWUcyyjsO2kTC4McJFOxNkxRE9IjELPzH1dFOHoZg78gruEuvqVvd0L+PfzNhUIQGdtE0UXakdz/RGyTvAvrGd81VLERMw7I15XWMx02teR1S28e31EQg9RMZiu79KQiv01KP0/EVNzdyVTtbw7N4Nxja4z3LJWCBIk6PLmfX8vMsxnf/8uMuX2bLL/Qndi70WgOXBpjrc900YcCGJ3hB7mamfMePRCYTjWBB4ToLSfyaJJm/sCpV4xU8oezYbQ=="
+  "assinatura": "b8hJeswABsrYbzTED3rgBgKgpNeEatl/XABFignLnSkGKaL2Bj2NTH9QDyH9iyeIM3XqahwHKLb69mbBQwN+M+4BxklxNl2rlxGGcQemp3F/wwnN/+GxmSs0cfTJZ8o56chYiXxNuQzwsbTTvXFxvnJfoQn6S9vcJPwLM7I5KoANJm8X9QHxuYXbf2ZuZzwF0v6OiWTy3XGvhCEHl/IuWiv9zFvBra4Q6hiORdLfuxMQRBgd9IaogDa3vOoCGbA602a7FRzx+w5ZsvYNvxqwimfFqnycNmt21II3H+GpEjaTAPDcCDag49AW3L7+46GcRls5G9y/VNgUJ3Rce2Au6w=="
 }
