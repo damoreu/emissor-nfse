@@ -1,11 +1,11 @@
 {
   "dados": {
-    "versao": "1.5.1",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.5.1/EmissorNFSe-1.5.1.zip",
-    "sha256": "c3d455e4d60c01df5ffa687b0cc75b4740fc4e72ec3a8d7b9ddcaa456e9345f9",
-    "tamanho": 84820968,
-    "notas": "Ajuste no cadastro de empresas. A tela de cadastrar/editar empresa agora tem os campos 'Provedor' e 'Inscrição Municipal', para empresas de municípios que emitem pelo padrão nacional por outro provedor (ex.: Canoas/INFISC): basta escolher o provedor e informar a inscrição municipal, sem editar planilha. Para o Emissor Nacional, é só deixar o provedor em 'Nacional' e a inscrição em branco — nada muda. Também inclui o campo 'Informações complementares' da versão anterior (discriminação detalhada que sai no rodapé da nota).",
+    "versao": "1.5.2",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.5.2/EmissorNFSe-1.5.2.zip",
+    "sha256": "417a4197f291c18785ca947f63c50a3b6e3fd768c28ca528b39df4e38c85e577",
+    "tamanho": 84821567,
+    "notas": "Correção do erro E0008 ('A data de emissão da DPS não pode ser posterior à data do seu processamento'). Esse erro derrubava a emissão quando o relógio do computador estava alguns segundos adiantado em relação ao da SEFIN. Agora o emissor tenta de novo sozinho, reenviando a MESMA nota já assinada — o número (nDPS) e a data/hora de emissão não mudam, e não sai nota em dobro. Se a nota só passar na segunda tentativa, o emissor avisa que o relógio do computador está adiantado; e se a diferença for grande demais, a mensagem de erro explica direto que é a data/hora do Windows que precisa ser sincronizada, em vez do código técnico da SEFIN.",
     "obrigatoria": false
   },
-  "assinatura": "b8hJeswABsrYbzTED3rgBgKgpNeEatl/XABFignLnSkGKaL2Bj2NTH9QDyH9iyeIM3XqahwHKLb69mbBQwN+M+4BxklxNl2rlxGGcQemp3F/wwnN/+GxmSs0cfTJZ8o56chYiXxNuQzwsbTTvXFxvnJfoQn6S9vcJPwLM7I5KoANJm8X9QHxuYXbf2ZuZzwF0v6OiWTy3XGvhCEHl/IuWiv9zFvBra4Q6hiORdLfuxMQRBgd9IaogDa3vOoCGbA602a7FRzx+w5ZsvYNvxqwimfFqnycNmt21II3H+GpEjaTAPDcCDag49AW3L7+46GcRls5G9y/VNgUJ3Rce2Au6w=="
+  "assinatura": "hA37Eng5r7bxXwsKIJ1Dfp7Qnp4LSh9faZZn99byuI37XV1XBvnIIh8ICoolTxEKn4GEKWofGf7813EMCPuH05h3mmfN0+jWE0eVz3ZHEoxFV2OjmjnVNpx5nSsLSt3fTfqr0x8JwJ+1dVVneA/Deo1L356ZXUZsacTjQBKbsHnXdGOryrBz2N5qUzeSPJmaVdTdJrYyy0oY9xb/vzFkFF0uNlWb7uuCR9bRjIgdGTpbtI/5lmcX0Fe+AY1f5qn/QEHJVnTyUdZXBJAUVPfQOX6nvUo19ezpey/D4y2uia9ybwB9FBamyjfHkL9vNj5lxqDWbRdNRYswLtBUMArmTQ=="
 }
