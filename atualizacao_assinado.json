@@ -1,11 +1,11 @@
 {
   "dados": {
-    "versao": "1.5.2",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.5.2/EmissorNFSe-1.5.2.zip",
-    "sha256": "417a4197f291c18785ca947f63c50a3b6e3fd768c28ca528b39df4e38c85e577",
-    "tamanho": 84821567,
-    "notas": "Correção do erro E0008 ('A data de emissão da DPS não pode ser posterior à data do seu processamento'). Esse erro derrubava a emissão quando o relógio do computador estava alguns segundos adiantado em relação ao da SEFIN. Agora o emissor tenta de novo sozinho, reenviando a MESMA nota já assinada — o número (nDPS) e a data/hora de emissão não mudam, e não sai nota em dobro. Se a nota só passar na segunda tentativa, o emissor avisa que o relógio do computador está adiantado; e se a diferença for grande demais, a mensagem de erro explica direto que é a data/hora do Windows que precisa ser sincronizada, em vez do código técnico da SEFIN.",
+    "versao": "1.5.3",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.5.3/EmissorNFSe-1.5.3.zip",
+    "sha256": "b90a80e14530cb1adb49ab17936117499db925c24ecfcb3e71ab9e0471b65d08",
+    "tamanho": 34660567,
+    "notas": "Relatório de notas emitidas por mês e por dia, com exportação para Excel (.xlsx): lista nota a nota, resume o movimento de cada dia e traz o total do período. O valor do ISS agora aparece em R$ ao lado da alíquota, na hora em que você digita — antes só saía depois de clicar em 'calcular', e apenas quando o ISS era retido pelo tomador. Abertura mais rápida: a tela de carregamento não segura mais o programa e as bibliotecas pesadas (PDF e rede) só são carregadas quando realmente usadas. Certificado vencido não trava mais a empresa: o emissor volta a varrer a pasta inteira atrás do certificado renovado, mesmo que ele tenha sido salvo em outro lugar.",
     "obrigatoria": false
   },
-  "assinatura": "hA37Eng5r7bxXwsKIJ1Dfp7Qnp4LSh9faZZn99byuI37XV1XBvnIIh8ICoolTxEKn4GEKWofGf7813EMCPuH05h3mmfN0+jWE0eVz3ZHEoxFV2OjmjnVNpx5nSsLSt3fTfqr0x8JwJ+1dVVneA/Deo1L356ZXUZsacTjQBKbsHnXdGOryrBz2N5qUzeSPJmaVdTdJrYyy0oY9xb/vzFkFF0uNlWb7uuCR9bRjIgdGTpbtI/5lmcX0Fe+AY1f5qn/QEHJVnTyUdZXBJAUVPfQOX6nvUo19ezpey/D4y2uia9ybwB9FBamyjfHkL9vNj5lxqDWbRdNRYswLtBUMArmTQ=="
+  "assinatura": "iQ6ruayvqS+o7Bicdyt67BTOnHxyfW8KEn8GI19mgDGVyEK2bGo74pK7S1r3/3lvNWHuOobmE5OZs3QUIGMTob7aVeq6f3rOtlW3cdateKFH5ahVPX3fK/tj6nbdztlnHNIgOd9LZLrxAtjJlBBZR7HLi0Ey8wbR9IUqTPDeIuqm82Gr0FEvAdBmCtfPHVS7sksiKlQHHzwEzRAV8Qej/aGweXFhuaM9WjvczQLHQd/PRHS+t5HQ+yr3/CaBsBiiVy8+pwii4f1rYH1HSHQuelgRTAKdY/m2lDQidiCwYah1wU4XZjuzEr4QWABgPXZD2ylHVZ68aVCv7FnCzhX7bg=="
 }
