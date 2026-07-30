@@ -1,11 +1,11 @@
 {
   "dados": {
-    "versao": "1.5.5",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.5.5/EmissorNFSe-1.5.5.zip",
-    "sha256": "4c9ea5fc9dbb090a3ffc885d25a2cef395bc46fe95089505fe8319d6f33faf41",
-    "tamanho": 51889915,
-    "notas": "Melhorias e uma correção importante de segurança na numeração das notas. Agora, quando a empresa foi migrada de outro sistema, o programa confere a data da nota devolvida pela SEFIN antes de aceitá-la — nunca mais registra uma nota antiga como se fosse recém-emitida — e a numeração se alinha sozinha com a SEFIN. Novidades desta versão: emissão de notas de construção civil (código da obra CNO/CEI, inscrição imobiliária e endereço da obra, em 'Mais opções'); o aviso de 'nota emitida' agora encolhe sozinho depois de alguns segundos para liberar espaço na tela (mantendo abrir PDF, abrir pasta e nova nota); um guia de erros comuns e soluções no menu Ajuda; uma faixa no topo mostrando sempre se você está em Produção ou em Teste; e correções de layout para telas menores.",
+    "versao": "1.5.6",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.5.6/EmissorNFSe-1.5.6.zip",
+    "sha256": "7555f2e18acce81cd7557a7e5b5ca1c3d9f3f0d4f9406c9fc3d9f2fe37176269",
+    "tamanho": 52152167,
+    "notas": "Novidades desta versão: agora você pode ENVIAR A NOTA AO TOMADOR POR E-MAIL com um clique, logo depois de emitir — a conta de envio e o texto do e-mail são configurados por empresa em 'Editar empresa'. A tela de 'nota emitida' foi renovada, com um selo de confirmação e o valor da nota em destaque. A pasta do programa ficou mais organizada (o que você não precisa mexer agora fica numa pasta '_sistema') e seus dados — empresas, numeração das notas e certificados — são preservados automaticamente na atualização. Além de pequenos ajustes visuais no histórico e nas telas de cadastro.",
     "obrigatoria": false
   },
-  "assinatura": "D4kz/Mob+OM1iniPwkPy3Q/hIJ+nIxJqFeVF8z/NqLoo8MRkqtOCskPhJG3JEL3NjS5k5BiSSqm09U5K3J6w8ld0sLUYwVqUu1gHaOmR+RrpjA/d98wjHdwrVGkhWurwimH+f991oGC8QYTDKBCts8YCl2pkOKlbhbDvrKjxhSwRLMjNa6GQYonEhPZXi22mNPNXUdDKqBqOgTBlo1IlZLmn3WiZVsZiu0XGFcaGtEabFQtcsJUvEGXKxWYf11N3lVjOmLQU6IRhTjWQxt2kEVN+BtknTEHvJSezZzRMgsSWDa6PxzU9aV+dCJVQjSbbK9VXIJLYH8UDQpX/wOSXCQ=="
+  "assinatura": "fJbTCrQVVZfb2SsJF7tBYEyTnM3ibN5mWtOozFTkbX52o2NPVJR7J94AvNl7gV1AqKStQoDwoHcMiIpojlKy9OF/CmXl/L9FMN3922pnmSEcuKNX7BTef0LlRvQFrKKlRdyNqykiLOaRh8Vpg9+kgjwIryJqOtgXCghsXkPzEw026OWkJnVvsErtzvZLC+yBLa+3mUV8voFJNifE6T4PovVRnG50ezU4t1wss/tOOXd59vtEKI+E2ZAfjawJTykRppvuT4oE6nmh5WFuByo9T0CDOyhI5lMIdV8VW2KfjIXZagODe5EJRAApaRlvIQ7cnbYi7fOE/pBLpwmVe6SlEQ=="
 }
