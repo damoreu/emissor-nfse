@@ -1,11 +1,11 @@
 {
   "dados": {
-    "versao": "1.5.8",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.5.8/EmissorNFSe-1.5.8.zip",
-    "sha256": "d63c054f8a4d9358b3379720004642404f5a669f04c8f3a9f33df4740f5563a9",
-    "tamanho": 52196240,
-    "notas": "Novidades desta versão: TOMADOR DO EXTERIOR agora fica salvo — emitiu uma nota para um cliente de fora (identificado pelo NIF) e ele passa a ser guardado, voltando pronto em Ferramentas › 'Buscar tomador do exterior…' e na emissão em lote. A EMISSÃO EM LOTE passou a aceitar o MESMO tomador em várias linhas (uma nota por linha), inclusive o do exterior, e no 'Adicionar tomador' dá para criar várias linhas de uma vez ('Quantas linhas de cada'). A tela de opções do lote foi reorganizada: os impostos retidos ficam num quadro e o CST em outro ao lado, mais alinhado e fácil de ler.",
+    "versao": "1.5.9",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.5.9/EmissorNFSe-1.5.9.zip",
+    "sha256": "f86f9ae94593bd46fcdf263700a0f737f316b9019af45d71fcaedf7cd7df2618",
+    "tamanho": 52212719,
+    "notas": "Novidades desta versão: a nota com IBS/CBS (Reforma Tributária) ficou mais completa — a DANFSe agora mostra o Indicador de Operação, o local de incidência com o código IBGE e as alíquotas efetivas de IBS e CBS. Empresas do Simples Nacional não destacam IBS/CBS por padrão; só quando marcadas como habilitadas ao regime regular no cadastro da empresa (não optantes destacam normalmente). Na EMISSÃO EM LOTE, a competência passou a aceitar o dia (DD/MM/AAAA), não só o mês, e a descrição do serviço ganhou o botão 'favoritas' para reaproveitar textos salvos, como na nota avulsa. O NBS já configurado na empresa é sempre preservado, mesmo quando o filtro por atividade não o lista.",
     "obrigatoria": false
   },
-  "assinatura": "paIiMUC8SpBimykjq3lN8bTfmDVeKVmyuneYD8lxrwqA4oCj0CONEv33mvJxXSlEJ++fXaoKoQthoQWXDI0F5g/QvNvtZ4/6s03gnQ/YvcMda0ZJPg2BMlyMoen1kjPcZJqJwOrvYO46y/eWQ6Kg4kgmVBrWkxr4Pdt7sxWIDyqLv1kRGwQCrDR7E+7Zke/d0MJsFgS68DIcFw0LOep7WFm9LyZNK/OlSASCYRztWfSsIL7PE7oj8r99gzAZb2SDiaNSFl38Y1p6xlwWbpqx077fPoE5fhMk4YtEC8ICmakBgZROSzlJROG3lex0ejjWosYkWj/H2x9HaCukBc0DAw=="
+  "assinatura": "OnV5NNovsapjhykQ7BUdX7qh9cDjsbybNQac51b80+VtySFrJ26DVrqkrwmCUmpIXODt7+MjioyP50O+VWQpPEcEMg/EXapT7m5VEAF+GZnjyorxmhZx1XiZ10rDGgptjc3bCBHcylpj+2uXVispq48xULIFmKnF9BlBtSFp7yonorZg/RnwazfmVjXmL2pH4mykz3Wzqlo8JnZ7QBhtTOWTN4WmBOXZTZls+b04b3IYJRFGALdWJsxImn27A0qabudlCVigPQanRLr4IMDXBtTcZwGbT2YKpCy+6jIuLY5YIl4jv0UgX1jArDt3XT6Ixkjgc/ZPnLnpP34pxkaMTA=="
 }
