@@ -1,11 +1,11 @@
 {
   "dados": {
-    "versao": "1.5.9",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.5.9/EmissorNFSe-1.5.9.zip",
-    "sha256": "f86f9ae94593bd46fcdf263700a0f737f316b9019af45d71fcaedf7cd7df2618",
-    "tamanho": 52212719,
-    "notas": "Novidades desta versão: a nota com IBS/CBS (Reforma Tributária) ficou mais completa — a DANFSe agora mostra o Indicador de Operação, o local de incidência com o código IBGE e as alíquotas efetivas de IBS e CBS. Empresas do Simples Nacional não destacam IBS/CBS por padrão; só quando marcadas como habilitadas ao regime regular no cadastro da empresa (não optantes destacam normalmente). Na EMISSÃO EM LOTE, a competência passou a aceitar o dia (DD/MM/AAAA), não só o mês, e a descrição do serviço ganhou o botão 'favoritas' para reaproveitar textos salvos, como na nota avulsa. O NBS já configurado na empresa é sempre preservado, mesmo quando o filtro por atividade não o lista.",
+    "versao": "1.5.10",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.5.10/EmissorNFSe-1.5.10.zip",
+    "sha256": "cfe907fad7d630ad29e822fdefcc0b71d1fc96b25b2df6a042117ed7ab2ac7de",
+    "tamanho": 52242588,
+    "notas": "Novidades desta versão: na EMISSÃO EM LOTE a competência agora tem CALENDÁRIO — clique em 'calendário' e escolha a data (dia futuro fica bloqueado), igual à nota avulsa. Correção importante: o filtro de NBS por atividade e as sugestões de IBS/CBS (classificação e indicador de operação) voltaram a funcionar — faltava um arquivo de dados dentro do pacote, então as listas apareciam vazias.",
     "obrigatoria": false
   },
-  "assinatura": "OnV5NNovsapjhykQ7BUdX7qh9cDjsbybNQac51b80+VtySFrJ26DVrqkrwmCUmpIXODt7+MjioyP50O+VWQpPEcEMg/EXapT7m5VEAF+GZnjyorxmhZx1XiZ10rDGgptjc3bCBHcylpj+2uXVispq48xULIFmKnF9BlBtSFp7yonorZg/RnwazfmVjXmL2pH4mykz3Wzqlo8JnZ7QBhtTOWTN4WmBOXZTZls+b04b3IYJRFGALdWJsxImn27A0qabudlCVigPQanRLr4IMDXBtTcZwGbT2YKpCy+6jIuLY5YIl4jv0UgX1jArDt3XT6Ixkjgc/ZPnLnpP34pxkaMTA=="
+  "assinatura": "jiTkDkY7Cm1wfJkh/akmdB/+8fH6Kzsr0Hu9drBXg9qCKivPOL8Wu2YLL+oSulYfHgoE+Tyq19v2uMdXkuaLDagjzTYfVbZqlvTJZIghVQEikquM2jyvn9TEFrhxeP+suHmOH/wlI/gbzI3f29OgfvrlkFuMu3z4L9IJbxl33fZnobAlLPw68/y/JxDY/Yi05Muqx3rMfo7TzV5p49wjfa3q9fHUgw3/s7ZpvT4lMF/O+6cPqsvQzT7JuSqEyizRQUXSa9iLC+U14tO4WoCgpBLFwN4r7w/vW/npvX/hdxB1h5gaDGCczPjDDv0+6ae1nii7gqqa4F44det6LdADfg=="
 }
