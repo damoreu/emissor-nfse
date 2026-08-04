@@ -1,11 +1,11 @@
 {
   "dados": {
-    "versao": "1.5.10",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.5.10/EmissorNFSe-1.5.10.zip",
-    "sha256": "cfe907fad7d630ad29e822fdefcc0b71d1fc96b25b2df6a042117ed7ab2ac7de",
-    "tamanho": 52242588,
-    "notas": "Novidades desta versão: na EMISSÃO EM LOTE a competência agora tem CALENDÁRIO — clique em 'calendário' e escolha a data (dia futuro fica bloqueado), igual à nota avulsa. Correção importante: o filtro de NBS por atividade e as sugestões de IBS/CBS (classificação e indicador de operação) voltaram a funcionar — faltava um arquivo de dados dentro do pacote, então as listas apareciam vazias.",
+    "versao": "1.6.0",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.6.0/EmissorNFSe-1.6.0.zip",
+    "sha256": "17820265324d9a21667833c93c1707d2adffbdbedddd452c17057fc2b69d5df8",
+    "tamanho": 52368983,
+    "notas": "Versão 1.6.0 — a maior atualização até agora. CORREÇÃO IMPORTANTE: em municípios com provedor próprio (Canoas e afins), a nota era criada na prefeitura e o programa dizia 'FALHA NA EMISSÃO'; quem tentava de novo acabava com nota DUPLICADA. Corrigido, e o programa nunca mais reemite em cima de uma nota do próprio dia. NOVO: conciliação com a SEFIN (acha nota emitida por fora, cancelamento feito por fora e conserta a numeração antes de dar erro); conferir a situação e os eventos de uma nota pelo histórico; nota que existe na prefeitura e não está aqui pode ser registrada pela chave; backup automático diário do essencial e tela para restaurar; aviso quando a retenção não se aplica (tomador pessoa física) ou fica abaixo do piso legal; exportar as notas do período para a contabilidade; enviar e reenviar a nota por e-mail direto do histórico; rascunho automático (nota em preenchimento não se perde mais); atalhos de teclado (F5 emite, F1 mostra a lista); na emissão em lote, importar os valores do mês por planilha. As janelas agora acompanham o tamanho da letra escolhido. Erro inesperado passa a ficar registrado com um código curto para informar ao suporte (Ajuda > Registro de erros).",
     "obrigatoria": false
   },
-  "assinatura": "jiTkDkY7Cm1wfJkh/akmdB/+8fH6Kzsr0Hu9drBXg9qCKivPOL8Wu2YLL+oSulYfHgoE+Tyq19v2uMdXkuaLDagjzTYfVbZqlvTJZIghVQEikquM2jyvn9TEFrhxeP+suHmOH/wlI/gbzI3f29OgfvrlkFuMu3z4L9IJbxl33fZnobAlLPw68/y/JxDY/Yi05Muqx3rMfo7TzV5p49wjfa3q9fHUgw3/s7ZpvT4lMF/O+6cPqsvQzT7JuSqEyizRQUXSa9iLC+U14tO4WoCgpBLFwN4r7w/vW/npvX/hdxB1h5gaDGCczPjDDv0+6ae1nii7gqqa4F44det6LdADfg=="
+  "assinatura": "QoYjrQmtBnlQuDASUksnGQXQMfJLRt7rlrdmrlElIXWvIf8/18mPxo5cK+pRbfmZ/w1LWh+K2Mk8NRtKs9wWxqlh5uOKSFrPdb2x5gWLwz9Wcd85tWzEZBmY7agMsb6aXWX/oC9E/xmbIuwaqhfckwlyRPXzlUuGBk3QQTMxyHtt+IAZpD16r8t+nJYi1u0Ee5g7s5DcPgW5L3KUN/SNLNu3q+PcLXNh6fgrvfm/Wt3WOrdAWsfg5J/ZoWrOfElvx3kmg75MwYMZqYJhWVdlcqj9R8eYwTH65PmDPqMP1h4BDB/uPA/W1Q/X2Q0a+4plL1l//sIh0sOkEHTvsw9VpQ=="
 }
