@@ -1,6 +1,6 @@
 {
   "dados": {
-    "gerado_em": "2026-08-10",
+    "gerado_em": "2026-08-12",
     "licencas": {
       "08414345000101": {
         "ativo": true,
@@ -13,8 +13,12 @@
       "44557118000190": {
         "ativo": true,
         "validade": "2027-08-10"
+      },
+      "37725028000104": {
+        "ativo": true,
+        "validade": "2027-08-10"
       }
     }
   },
-  "assinatura": "dZK+DeAXitKWatxLMe4HiQy5lMRvLJT5Rwg4B8D38/NdtKai+B2X7fHCXeGYQZoduIGpNgKya88564KlmdJsEk8//5s6kZa0v96xHDDq/yf/Hs86iYXX/o4+I4YUyWccFYHzCsF08SbeDppXtxLAmxreVv4TCV0zfxFB3uXAvJNk3mauGoKMo+C+2pu+Rh7Dw72KSarStkD8CznSEjvqTxPR4qP3bAbZIz83BEo2Q5ZabUC4jno1sYlvKMXTVifq5DgNU0TFTsnISzQyM+gEKMnGd9LJaD5Il+Demm/rzn+GEhmr4MbW3BCYHwALEJjowl2D1z/0LuIDdR3A8yJIdg=="
+  "assinatura": "W1pQuUBcNAdYXUYfaET2l/XIj2ojUND8D7Lxb390cklm4nq2sESb9uR4lQcv9j6JiZhBI670n4e2FJwgoUq6OFIrNDv6Isj1rdgvjox7OOSwVuc3Nh1FIH+/B8OQAmWgy/OBIlo3FhG1zk/bzDFdBzxlT5bFoMAHfl5UXUj0l0qVq7yaP8G34C+qMVfanwLuK9NustNYLVywAlksX10AGXYQR++KzEG7JFxPjg3OQMDs/qrTequZG+7KneGJWsME6wGnAGW2p4OnTzBos1F+fLroVA9RTfiwSpdp4us8K6PZIxi2KRnQxlpWBfgQ/3H5XcOPeGX4Qwj6Z0Upg9edzw=="
 }
