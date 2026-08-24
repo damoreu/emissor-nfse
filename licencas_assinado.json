@@ -12,7 +12,9 @@
       },
       "44557118000190": {
         "ativo": true,
-        "validade": "2027-08-10"
+        "validade": "2027-08-10",
+        "web": true,
+        "email_web_hash": "13ab922657d2aaa929a2d98606ea8092571419fc0fafc9ecf382211d0fddead3"
       },
       "37725028000104": {
         "ativo": true,
@@ -42,5 +44,5 @@
       }
     }
   },
-  "assinatura": "GyzaPmMdYqgzPhXmM8PGGiGxIFh8qCyP87j8zBEfrgn+8Df364iJm1Ewy2ka9zwGl0++CXWZ9RgerP9vEeV3bp2dHHDNrddUPWYMG9nYg6LhaLKzAyQidkx7zgI8eDnEnnHUWar11EUyzr5ESRBX9uFYwp/D2uUbD+DWFVnY0j4GZOlz9ghduxHi0F2Z50RiGqHtk39NsfU+Y8ozLQCtgDbk6/M7lF9HYU6l40XvsDoyi5YVz3hK3Dfv4e0WrQK1Vh7y4JWg4XvgqAKy097Q2PX4lwF+VYYq1SaSLmkTyiUqvzbNkzXC0fo+gmK3hz1vdsEy+DEFgirHgFVikoH+YA=="
+  "assinatura": "HvTQepal/5tvNwefVX9z90GwAM/YJwN3JxqbkNor4O49aF50XZKMtG61vT01FnR4GbLvdepmPT2StgnbP7O3v40XJXessv+iZNl9UHC4tUxoyvfawJQzpD+7/e7Rp8NcSpQe2Z1SKwDitgcxdxX2Hd+n9ks0kvGuXqMTVQTbdsKHBH7c1RpOk4V9ZP4aZ+wws18h4ktqEThODqoji//n1WlGx1pK3OmfZkuN9SpIrGvIRX0LOLdiKaxdfc4v1mbrQRlANMNm2w9l8nM9hRFajBudn8oF7WoJ8G3F1QmCDqjbZSYUsaYnhcfrQekgaUO11wcnWbK9EnKdoBYVOBps5w=="
 }
