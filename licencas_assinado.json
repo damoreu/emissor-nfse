@@ -24,14 +24,6 @@
         "ativo": true,
         "validade": "2027-08-13"
       },
-      "22803165000134": {
-        "ativo": true,
-        "validade": "2026-08-31"
-      },
-      "48790359000136": {
-        "ativo": true,
-        "validade": "2026-12-31"
-      },
       "16943746000179": {
         "ativo": true,
         "validade": "2026-12-31"
@@ -44,5 +36,5 @@
       }
     }
   },
-  "assinatura": "HvTQepal/5tvNwefVX9z90GwAM/YJwN3JxqbkNor4O49aF50XZKMtG61vT01FnR4GbLvdepmPT2StgnbP7O3v40XJXessv+iZNl9UHC4tUxoyvfawJQzpD+7/e7Rp8NcSpQe2Z1SKwDitgcxdxX2Hd+n9ks0kvGuXqMTVQTbdsKHBH7c1RpOk4V9ZP4aZ+wws18h4ktqEThODqoji//n1WlGx1pK3OmfZkuN9SpIrGvIRX0LOLdiKaxdfc4v1mbrQRlANMNm2w9l8nM9hRFajBudn8oF7WoJ8G3F1QmCDqjbZSYUsaYnhcfrQekgaUO11wcnWbK9EnKdoBYVOBps5w=="
+  "assinatura": "NOkc50G3e5LFvlMVJbOaMDCUXOKgOgPzBoj6jvX/ComCDkvttxwl7Ky/Hmgh3pfWsyVx51TPDKiF0s+tpolztoAefE0sFyCebfcUppptWt9CzhpZyvVpCiPCsbF3PtRlXvU2xXOsfnEYaaxJlKgTOjFQ+dOdehOfvdUViTpiUqU9fqukNeudAVeopeHb9GkEiRXooDyVu5JWhd5vrHwowh4AzonxQ5ENA9a1YuDhl0pdFlIER/Z7D+TKUOV5kexYQimimLXaLfQMeX7Bi6MG4EXpdSL8zALNAnNjP9LhpBqEZomY4eYpslfxjP04tIFaHKb/4+/JPtopCx9MpKeUhQ=="
 }
