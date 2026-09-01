@@ -1,6 +1,6 @@
 {
   "dados": {
-    "gerado_em": "2026-08-31",
+    "gerado_em": "2026-09-01",
     "licencas": {
       "08414345000101": {
         "ativo": true,
@@ -17,15 +17,15 @@
         "email_web_hash": "13ab922657d2aaa929a2d98606ea8092571419fc0fafc9ecf382211d0fddead3"
       },
       "37725028000104": {
-        "ativo": true,
+        "ativo": false,
         "validade": "2027-08-10"
       },
       "47499088000100": {
-        "ativo": true,
+        "ativo": false,
         "validade": "2027-08-13"
       },
       "16943746000179": {
-        "ativo": true,
+        "ativo": false,
         "validade": "2026-12-31"
       },
       "51944191000180": {
@@ -35,7 +35,7 @@
         "email_web_hash": "1365aa8a7843336c579a668b1549cea42c90db11e9df3008920fbc6f5b054ba2"
       },
       "13648103000104": {
-        "ativo": true,
+        "ativo": false,
         "validade": "2027-08-31"
       },
       "68385873000101": {
@@ -43,14 +43,18 @@
         "validade": "2027-08-31"
       },
       "44372942000176": {
-        "ativo": true,
+        "ativo": false,
         "validade": "2027-08-31"
       },
       "67579376000173": {
         "ativo": true,
         "validade": "2027-08-31"
+      },
+      "50143540000100": {
+        "ativo": true,
+        "validade": "2027-08-31"
       }
     }
   },
-  "assinatura": "bFD8csGwRB0gCUS6z7owF347dehz1RMYry9FfuenN/dK6MR6V7MSz6L33o1pr9jSpF3SyDdRE+7LMxWRv7qtHad36LM7fnwz38um5oJzUDJ9cyj51uRUXwmF8rwQ0cL2RQx+I+5cnnEaeV7V4TRHnJZUrrXf0T1GFIQ0RPRMmLVBbzKgjL1akkB9H6dj9z6aXdG9im6iKT05ji+MkAc+WZ53e3UdbrcYjpOvK7ac5r+LZ1QN/QJhEV+9lBuNGEEucT8FY923SoYQvc/gwtkfVbzJLBKoENmfsKSwBlOHWFlbyUwnfgkbRCQD4qChhciXMlYtcOAfldCLHQ94epdI5Q=="
+  "assinatura": "biFt5Hk0NNMrPhmbPuAxm1iQ2srcg1+MxviuevL2JBz6qQw5QE1SxKFQ+XkPEI+c6HU2gY5ypHwrmlqwsz2GmyANLIuFS0TINLnakqLRA5+1sdDGiObtVDnmNOxB8pwce73eXb6YKQ2kZ7D9kRDzWoYwGs6PDoAeSuVNz6yREFkFdLNWcg9IYfpME4j9+mJsOC5LDRfSfRTD+h1Whl5CXH+XVLAAIPDhuHetSbmsx7URo5vzbhkXixTOs6ipajYQgH7mxu0KTEXycIuh5MaS72nfhBQz6bI8BBlmDs3rJcSOS8bmzzp2+i/8qBaVqNnF5iQcju2iWxdBdSthwXHwdw=="
 }
