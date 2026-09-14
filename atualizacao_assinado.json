@@ -1,11 +1,11 @@
 {
   "dados": {
-    "versao": "1.6.22",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.6.22/EmissorNFSe-1.6.22.zip",
-    "sha256": "09515f50eb47efafc727ed742d0d8a1cb98f1df305334c13265fe2fc110c3db9",
-    "tamanho": 52970608,
-    "notas": "Versão 1.6.22 — o cartão de boas-vindas agora fecha.\n\nAquele quadro com os três primeiros passos, que aparece no topo da tela enquanto não há nenhuma empresa cadastrada, ganhou um X no canto direito. Fechou uma vez, não volta mais nesta máquina. Ele continua sumindo sozinho assim que a primeira empresa é cadastrada — a diferença é que agora quem já leu os passos não precisa conviver com ele até lá.\n\nPode atualizar sem receio: o pacote só substitui os arquivos do programa, e cadastro, certificado, numeração e as notas emitidas ficam onde estão.",
+    "versao": "1.6.23",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.6.23/EmissorNFSe-1.6.23.zip",
+    "sha256": "b81e2afdd44a648242fdfeb6e7e0f0295256cce391e0c1ab707db9521e7d18ad",
+    "tamanho": 52973129,
+    "notas": "Versão 1.6.23 — a emissão em lote passa a preencher o código NBS.\n\nQuando a empresa não tinha o Cód. NBS preenchido no cadastro, a nota avulsa saía com o NBS da atividade e a emissão em lote saía SEM o código — a mesma empresa, duas notas diferentes. Agora o lote segue a mesma regra da nota avulsa: usa o NBS do cadastro e, se ele estiver em branco, o primeiro NBS que a tabela oficial dá para a atividade da empresa. A conferência da leva passa a dizer qual NBS vai sair, para você conferir antes de emitir.\n\nSe quiser garantir um NBS específico, preencha o campo Cód. NBS em Editar empresa: o que está no cadastro sempre vale.\n\nPode atualizar sem receio: o pacote só substitui os arquivos do programa, e cadastro, certificado, numeração e as notas emitidas ficam onde estão.",
     "obrigatoria": false
   },
-  "assinatura": "LaTju0qd7nrW9xJoVkx5xExa9xWqhEhH2pXMf6xo4Lq92vsxXGOl+nGkcxCll6VZ/8o8g+RRQMqR6F9A1jXX3x2dU303yYiHSjQU3q0121UGWnX8DDS2/CljKztQFFBzFw0kc9DWLBtkO7HqODRNnBL9Nz5ydsoExRtuqE9upke8vQD7F3g3lmqiQMdGCCUfO+8Z0hgOzwIqlrpXhSjZbgf06Y4kvcTcZofIyF85F9r2QtGXEump0oOTi4ZnLDo4C6N6j4lfOVyKxTSCoHN4MONQAlM8LXGLqgDBO750w3zDG68GhnjJG1pxnNhuCTlGF5A6axLTDYKJDwt2WKAyJg=="
+  "assinatura": "lPhuCe/Md4V5p7fieI0AC1JCd347p6wmtuHAHPwcSDPo1BDIfqKPsYn1L+ThWTxyZf6pO4FqCUwuYpeF4dYQ3QddCezLxcr0+yDvFH5fJjnsSk/600hNIwfleKSCTt2uEx3Y86UQtajkqd7R2KF+RQPsBXtpqHE+btxT8kXpoh3i216WI1DlGGSXfaKyw7+7guN+RGReh9KvXGdEsL4HjR75vZRVTFgYjfuzT9jLnj2yLPelfr3LacLVQyEbspSMTh5wTIa/JzRxOTUFFMUo8BA8weDJ615wKXuTTBghUHZferySviV3gNxSTr7UhhtyxweG9SsCTjcooEbY8WCWmw=="
 }
