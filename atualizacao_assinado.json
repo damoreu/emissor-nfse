@@ -1,11 +1,11 @@
 {
   "dados": {
-    "versao": "1.6.23",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.6.23/EmissorNFSe-1.6.23.zip",
-    "sha256": "b81e2afdd44a648242fdfeb6e7e0f0295256cce391e0c1ab707db9521e7d18ad",
-    "tamanho": 52973129,
-    "notas": "Versão 1.6.23 — a emissão em lote passa a preencher o código NBS.\n\nQuando a empresa não tinha o Cód. NBS preenchido no cadastro, a nota avulsa saía com o NBS da atividade e a emissão em lote saía SEM o código — a mesma empresa, duas notas diferentes. Agora o lote segue a mesma regra da nota avulsa: usa o NBS do cadastro e, se ele estiver em branco, o primeiro NBS que a tabela oficial dá para a atividade da empresa. A conferência da leva passa a dizer qual NBS vai sair, para você conferir antes de emitir.\n\nSe quiser garantir um NBS específico, preencha o campo Cód. NBS em Editar empresa: o que está no cadastro sempre vale.\n\nPode atualizar sem receio: o pacote só substitui os arquivos do programa, e cadastro, certificado, numeração e as notas emitidas ficam onde estão.",
+    "versao": "1.6.24",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.6.24/EmissorNFSe-1.6.24.zip",
+    "sha256": "89c57b3cfa7fad5be0422f97df2eb6285add0ade62c2604822066716c9360fb8",
+    "tamanho": 52974995,
+    "notas": "Versão 1.6.24 — a busca de CEP foi consertada.\n\nTrocar o CEP e clicar em 'buscar CEP' agora troca o endereço na tela. Antes, se já havia um endereço preenchido (do CEP anterior, digitado errado), a busca não mudava nada — e parecia que não funcionava, ou que tinha trazido o endereço errado. Sair do campo do CEP continua só completando o que está em branco, sem apagar o que você digitou.\n\nUma resposta atrasada da busca de um CEP que você já corrigiu não preenche mais o endereço antigo por cima do novo. E se a base de CEP principal (ViaCEP) estiver fora do ar ou limitando consultas, o programa consulta uma segunda base (BrasilAPI) em vez de dizer 'CEP não encontrado'.\n\nPode atualizar sem receio: o pacote só substitui os arquivos do programa, e cadastro, certificado, numeração e as notas emitidas ficam onde estão.",
     "obrigatoria": false
   },
-  "assinatura": "lPhuCe/Md4V5p7fieI0AC1JCd347p6wmtuHAHPwcSDPo1BDIfqKPsYn1L+ThWTxyZf6pO4FqCUwuYpeF4dYQ3QddCezLxcr0+yDvFH5fJjnsSk/600hNIwfleKSCTt2uEx3Y86UQtajkqd7R2KF+RQPsBXtpqHE+btxT8kXpoh3i216WI1DlGGSXfaKyw7+7guN+RGReh9KvXGdEsL4HjR75vZRVTFgYjfuzT9jLnj2yLPelfr3LacLVQyEbspSMTh5wTIa/JzRxOTUFFMUo8BA8weDJ615wKXuTTBghUHZferySviV3gNxSTr7UhhtyxweG9SsCTjcooEbY8WCWmw=="
+  "assinatura": "cM1O9/BBatqXG9anMfGFKOOzp2gQ+Ebz3SmNsve09b8MvPUWfnrZeUpLhhRS3jYTvGCgin2Vj6iLjGaJLy9TAcyj5QFdGn9fLcONYr5jd0IiT7aoXbSSve2vwBgb/Lk3OPA3RV7J67gu3B1PMFOKhtk3GFCIM1Nz2UGYY0yADpxIsI6tno89Ur3EaLTdnlOVeT9ud8V4qL24vT/lvXpM/yvTcSEBxKWYA1yPcNn8L6cVDsZu1x6MQNOeHUUPPTwdBwBgHSBXMeDVQ57QzJAp4AX53Lou4lR7/BruhTQhXIr780sHO2l/dEe8esY9em0N2ltXkJb0V3UKjVxdMauKdQ=="
 }
