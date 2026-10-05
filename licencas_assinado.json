@@ -65,8 +65,12 @@
       "46652791000135": {
         "ativo": true,
         "validade": "2026-10-10"
+      },
+      "37176524000148": {
+        "ativo": true,
+        "validade": "2027-08-31"
       }
     }
   },
-  "assinatura": "dzrkLxKTnU36RY/+ie7P5skFOHXPOW7HBVXfELOLjNAYb4adHDNpxFhhrJHzZO5DEqbAcMOgzWpERQRfevO3rq1A/YBXWi7REL/VtbmUska5aD/0N7W9q/Q85jrj/gReDTK8fRUHr/D8kLAwGY9VpZtrrsojR9ATR8G8JE7ALROBcTgoEEjBC9gzIWhL3P1DognTfg+7MKv39bc2I6M5CUcVjTGm50FN04kYFTlyUUxQ3mPaLa+4UsmJBRRg7aK6U8Mxxq0CIrm8ShQewZJJXkEwcQ+0kg9Gco5Agp6YvnqFPDKOiI3qlDTfjUoW/+FZ/fJ+Gscflzlv3m08Xfw+3g=="
+  "assinatura": "RSFSLFNP+NWOAUOleqIh+c1uq5GCg7nZxCTH8Wz+gQ/9UYogtW9VbHfw5vEKRXlaTjq7Q94e4ApvNbB2xZx+vDhGDxU1AMfM9jew2eZXpFJ1EahsKwEoC4tA+mUdJhZDmghh/u1AQQ8vfG519GfELWfGFax0Fd+UknrWng3AVgHyvsKIke3EAYAT/CkBII722xJ5LczY8spxPj0lSRY3wLi/56Pi/f7hNC25uzBjX73VEajy7cZP1n/e16oMV0QqbiWg1rvwRn/ZjULSuOQUEPj0O9pSjfBIlDkhwKJcEQ6PN5ak3HTFYYfM+bcbytokZ2A6r2bsx4flMVE4CddJwg=="
 }
