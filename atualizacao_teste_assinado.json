@@ -1,14 +1,14 @@
 {
   "dados": {
-    "versao": "1.7.0",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.7.0-teste/EmissorNFSe-1.7.0-teste.zip",
+    "versao": "1.7.1",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.7.1-teste/EmissorNFSe-1.7.1-teste.zip",
     "urls": [
-      "https://github.com/damoreu/emissor-nfse/releases/download/v1.7.0-teste/EmissorNFSe-1.7.0-teste.zip"
+      "https://github.com/damoreu/emissor-nfse/releases/download/v1.7.1-teste/EmissorNFSe-1.7.1-teste.zip"
     ],
-    "sha256": "29860eecb1fe249e774558488d48172edf79b3d385a2d965fcba4c4d73144a61",
-    "tamanho": 62789334,
-    "notas": "Versão 1.7.0 (TESTE) — a tela nova.\n\nO Emissor passa a abrir com o visual novo: as mesmas empresas, notas e senha, com as abas no topo e a empresa em uso sempre à vista. A senha do programa e os termos de uso continuam os mesmos.\n\nTambém: a atividade e o NBS aparecem por extenso, a prévia mostra o IBS e a CBS estimados e o local da prestação já vem com a cidade da empresa.\n\nA tela antiga continua à mão em Ajuda › 'Abrir o Emissor clássico…'. Se a tela nova não abrir neste computador, a antiga abre sozinha.\n\nEsta é uma versão de TESTE, antes de ir para os clientes: anote o que estranhar e avise quem cuida do Emissor no escritório.",
+    "sha256": "f1320c2a5468f624e6dab0ff4d4bea827cd3891a45dea251c8e15d5541a564db",
+    "tamanho": 62789584,
+    "notas": "Versão 1.7.1 (TESTE) — ajustes na tela nova.\n\nNa emissão, os botões do CNPJ/CPF do tomador (últimos, buscar, limpar, consultar CNPJ) ficam embaixo do campo, que agora fica alinhado com o Nome.\n\nNa emissão em lote, o ✕ que tira a nota da lista fica sempre à vista na ponta direita, mesmo quando a tabela é mais larga que a janela.\n\nTraz tudo da 1.7.0. Esta é uma versão de TESTE, antes de ir para os clientes: anote o que estranhar e avise quem cuida do Emissor no escritório.",
     "obrigatoria": false
   },
-  "assinatura": "XGyfjjKGievfI5CHP6AEW3BvYVvzk5kPrPnspYB8BYGnhSrLhoFK8Gh2ePnvcM8O1YhbIn2A0SiS3RcTUqApn1IiYdUtkMFUpGaLgqOGoBgM5avT/gjt5mMOvbTCCrHw7sKnu5//lncfgQ+pLCNtYbk5fmzL/TeJBctLW0ycEsGi1QH5GW962/A8ai5k9Sl0jM3xbDLxkXNhuJe3Fvf0RQoTUOXTk3sfZTfNzAZz572tBN4xECquM+geWEPW26VqxZVAxDdl0eiC1QHfJn0zse4hYo5z2TVRP5q4/I/h0SrmcMs8YtlyBW6kWrOhoU25m+TyLiTvG6bGJhyLP7h2/g=="
+  "assinatura": "VuaeYkD6PHgbDxSAnwULKuuv0Ve8TcBI6CPd07BLc2TqkHe+0iu9DzTVDElSIOu/Q5H22Xjercy2lFLdrHa6FoT1vaPi0mhVlVB2N33D2hZWSHTmPmRy6BPKgu97O/prqfsHUQH/NJAL0WkKuENvu1fNpEQAmW05KV85XH6vZu14BI21Fc7JEM/tAh+eLnuIrlCu1i3rSWNWao91/fcwfc00yOJLDOrCHAUCxLS8WPUp7Y0gqMwXRdzYIMymKA+Elpk9Jbwoig4CujfAeQu5dHG4sBCalEVR3f4NrbrE9oe586tol4sPbXD80zYJSiJBzGwB0KJcw9KqSnQgpr3J/g=="
 }
