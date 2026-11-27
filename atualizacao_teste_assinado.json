@@ -1,14 +1,14 @@
 {
   "dados": {
-    "versao": "1.7.3",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.7.3-teste/EmissorNFSe-1.7.3-teste.zip",
+    "versao": "1.7.4",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.7.4-teste/EmissorNFSe-1.7.4-teste.zip",
     "urls": [
-      "https://github.com/damoreu/emissor-nfse/releases/download/v1.7.3-teste/EmissorNFSe-1.7.3-teste.zip"
+      "https://github.com/damoreu/emissor-nfse/releases/download/v1.7.4-teste/EmissorNFSe-1.7.4-teste.zip"
     ],
-    "sha256": "4664d9fc1189ad7eab75cafadc050611a98a3521aa0a31e8883a83cd68199f57",
-    "tamanho": 62801376,
-    "notas": "Versão 1.7.3 (TESTE) — cidades, recusa e lote.\n\nNa emissão, o Local de prestação lista as cidades a partir da 3ª letra e vai afinando conforme você digita. Se a Receita recusar a nota, a tela volta com tudo preenchido para corrigir.\n\nNa conferência, a competência da nota aparece no alto e há um ✕ para fechar; o 'nota emitida' vira um aviso no canto. O XML do cancelamento fica guardado.\n\nNa emissão em lote, o comércio exterior de cada nota (moeda e cotação) abre numa janelinha própria.\n\nTraz tudo da 1.7.2. Esta é uma versão de TESTE, antes de ir para os clientes: anote o que estranhar e avise quem cuida do Emissor no escritório.",
+    "sha256": "5ed18df9022ef27d7b4fe3f498480e00e075d89f26171324c6b21d708ac4cd47",
+    "tamanho": 62800726,
+    "notas": "Versão 1.7.4 (TESTE) — formato novo da nota em 07/12 e a lista do NBS.\n\nO sistema nacional publicou o cronograma oficial: o formato novo da nota (Nota Técnica 009) entra em produção em 07/12/2026, e não mais em 01/12. Até 06/12 as notas seguem no formato atual; em 07/12 o programa passa sozinho para o novo.\n\nNo Editar empresa, clicando no Cód. NBS, a lista mostra todos os NBS possíveis da atividade, e não só o que já está preenchido.\n\nTraz tudo da 1.7.3. Esta é uma versão de TESTE, antes de ir para os clientes: anote o que estranhar e avise quem cuida do Emissor no escritório.",
     "obrigatoria": false
   },
-  "assinatura": "kRpGxDYZxHPcnbMdANVvokABXtC4lIZ1tzXqyiOCMrj4CI6QvBIT+KH7icGK+UvyPrrnBIr9jsWzmckTy3nyHHbTiMRyNgHiJPLkhttrcIVt2XSovyjG6rwtSEP14J9yxhjfmg2xlayANdGkIkyza23HtlaCTUw2IrGn1Zhp2CWnk5qryQl7HqYSntvMVLCewNUcfTwEZ2AgK+kb3Z+QLrfi2vLbYuGzB3cNQJ5ypZFxOCO2WHbLv6LNW1dRjmBVk8u0q120I3Xheb5i2765od7Vqpvi0dvzDITvshCN6fQ0dsCdxXg0vtpP93BkrNhatmjePLkIkTcOeIDG0ZbOZQ=="
+  "assinatura": "BihhXt1FusI94lrFDlo03kaUEkzQrqottbTAwtCm1QZRKZ1IFL5fz841VBLc0DGvYE190yQFD0OfX9eBJMvthWkzZP7Seft6psgQqLrfHWj70puGTsTNFkYUgdF7FE32mufqN6uzrtZ7JuC2v2zGCEa3bvEMNug/WSSwrgHPsaBo8w/Ob9lnLbnqKjQ1AQx0y4X6gQamUC7iY7+/kKn5pcpC1gnTWqwvr2uQUl50yBE9/SEqGgelL27mQXdK52WALL2MP6pnamGujG3o4m94GuKH/9KSp7jldyMqqm3e37qd7JAe6NaPPp/LQTwR6KH8bhLkqOv5LTa8fGceGu6t7w=="
 }
