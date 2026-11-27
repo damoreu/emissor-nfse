@@ -1,15 +1,15 @@
 {
   "dados": {
-    "versao": "1.6.31",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.6.31/EmissorNFSe-1.6.31.zip",
+    "versao": "1.6.32",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.6.32/EmissorNFSe-1.6.32.zip",
     "urls": [
-      "https://github.com/damoreu/emissor-nfse/releases/download/v1.6.31/EmissorNFSe-1.6.31.zip",
-      "https://raw.githubusercontent.com/damoreu/emissor-nfse/pacotes/EmissorNFSe-1.6.31.zip"
+      "https://github.com/damoreu/emissor-nfse/releases/download/v1.6.32/EmissorNFSe-1.6.32.zip",
+      "https://raw.githubusercontent.com/damoreu/emissor-nfse/pacotes/EmissorNFSe-1.6.32.zip"
     ],
-    "sha256": "1e6c128ce0bf20d7b245ef259b230a18203471e23e7fa864c4f11115ea82d8b7",
-    "tamanho": 54058674,
-    "notas": "Versão 1.6.31 — formato novo da NFS-e em 01/12, emissão em lote mais completa e a atualização automática funcionando de novo.\n\nATUALIZAÇÃO: em 05/11/2026 o GitHub, onde ficam as versões novas, trocou o certificado de segurança e o download parava em 'CERTIFICATE_VERIFY_FAILED'. Corrigido. E o aviso de versão nova agora aparece também com o programa já aberto (antes, só ao abrir).\n\nFORMATO NOVO EM 01/12/2026: o sistema nacional troca o formato da nota em 01/12/2026 (Nota Técnica 009). Esta versão já está pronta e passa sozinha para o formato novo nessa data, sem você mexer em nada. Atualize antes de 01/12: a partir daí, nota no formato antigo deve ser recusada.\n\nEXPORTAÇÃO DE SERVIÇO: a nota para o exterior marcada como exportação era recusada pelo sistema nacional (erro E0592). Corrigido.\n\nCLIENTES DO EXTERIOR: aparecem no 'últimos ▾' e na busca junto com os do Brasil, com o NIF. Nome em chinês, japonês ou coreano sai legível no PDF. Endereço em chinês ou coreano, que o sistema nacional não aceita, agora vai escrito em letras latinas, como se pronuncia — com a cidade e a província nos campos delas.\n\nAFILIADOS DA SHOPEE: o Relatório Mensal da Central do Afiliado entra pelo '+ Importar planilha' da emissão em lote — uma nota por vendedor e por mês do relatório, na competência do topo da leva. Um clique em Emitir e o programa emite o mês inteiro em rodadas, sem nota em dobro.\n\nEMISSÃO EM LOTE: planilha com valor e descrição entra já preenchida, uma nota por linha, e o que já saiu no mês não entra de novo. As colunas ficaram alinhadas, e a leva maior que a tela guarda o resto em vez de sumir com as linhas.\n\nCADASTRO DA EMPRESA EM TELA LARGA: campos lado a lado e o SALVAR sempre à vista. Cada atividade pode ter a sua classificação do IBS/CBS (cClassTrib) e o seu indicador de operação.\n\nPDF DA NOTA IGUAL AO DO PORTAL: as mesmas letras, a situação por extenso e, em Informações Complementares, tudo o que a nota traz.\n\nSIMPLES NACIONAL: desde 01/11/2026 a empresa do Simples emite pelo Emissor Nacional. O provedor de Canoas saiu do cadastro; quem estava nele passa para o Nacional ao salvar a empresa.\n\nPode atualizar sem receio: o pacote só substitui os arquivos do programa, e cadastro, certificado, numeração e as notas emitidas ficam onde estão.",
+    "sha256": "a8e7509750c51119bffa17bb51c7b4abbfe0cfa2a3cfd1360c33c94d0d370252",
+    "tamanho": 54057020,
+    "notas": "Versão 1.6.32 — o formato novo da NFS-e agora entra em 07/12/2026, e não mais em 01/12.\n\nO sistema nacional publicou o cronograma oficial (25/11/2026): a troca do formato da nota (Nota Técnica 009) em produção ficou para 07/12. Com a versão 1.6.31, o programa passaria para o formato novo já em 01/12, e as notas emitidas de 01 a 06/12 seriam recusadas.\n\nCom esta versão, as notas continuam no formato atual até 06/12 e passam sozinhas para o novo em 07/12, sem você mexer em nada. Fora isso, o programa é o mesmo da 1.6.31.\n\nAtualize antes de 01/12.\n\nPode atualizar sem receio: o pacote só substitui os arquivos do programa, e cadastro, certificado, numeração e as notas emitidas ficam onde estão.",
     "obrigatoria": true
   },
-  "assinatura": "XmeE7PcIZHcmSjD7Ij2FHZqH1oEE4zpxMEeUtrzat8P7Sof4CSSGYA3yI0yDf4WCxWY3mQzzwqjYCDwchPCOBri5afoIqAlkmNTzyt/BPVAXtxUYZ9Lpbw1KHHjyeuMYyXyQZ05OcwYBrkzbbsw8zvAexk5UimB6lUmMfSXkaGp0jaJ5+fm5swEKIMdAunMkNCf2q2EptDwlBxWjOBC+7G/K/bqfo2r5RyNEvwdtIvTfN83peCKHS09FIEACuPlirAGDKT/9j4KbDxxc5DEq2osQU6w7exRXBNk2WObh50pPnOJO1OrE2sR04tNlfhTeV0yboCzKKBB3mgLWB0UnPA=="
+  "assinatura": "B2Nwc5ulYErY4ooqcy86QJwtKaUurabGz+oz6jOLzpJhVaBAqXqGnLQNAJ5YpMEEWKYzteZOBjw9ZWDn9qzcwbiJzjffeYnQ4bpAb/XDwFcbiZsM5kD3sng7u7VtSXiaBqtBZ+lGEaO7uJhvfimU1ThQQ0mNVVEHBjVdyt5SZ4TSlaAHg+IGNQfVRWSpZxF7c9KQCL9FyYKG9AmY8cjsr1j2owF9Xa+9RPuS3o1O7ij/6bIJ1AKiLHcy0pZQP7OCKINCau5s2gxBEczYhjYbIdEyw7jyJhjoxIdWlpa1kzLOkk1TmgLgRugv2ZvC+fe767CTyLYKNDipBKzmf9Pg0w=="
 }
