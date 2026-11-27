@@ -1,14 +1,14 @@
 {
   "dados": {
-    "versao": "1.7.2",
-    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.7.2-teste/EmissorNFSe-1.7.2-teste.zip",
+    "versao": "1.7.3",
+    "url": "https://github.com/damoreu/emissor-nfse/releases/download/v1.7.3-teste/EmissorNFSe-1.7.3-teste.zip",
     "urls": [
-      "https://github.com/damoreu/emissor-nfse/releases/download/v1.7.2-teste/EmissorNFSe-1.7.2-teste.zip"
+      "https://github.com/damoreu/emissor-nfse/releases/download/v1.7.3-teste/EmissorNFSe-1.7.3-teste.zip"
     ],
-    "sha256": "ef6dd38296567efdd47f87cc6c44ac1acc61685c754e32cd6428a8bbb56bcdc3",
-    "tamanho": 62792663,
-    "notas": "Versão 1.7.2 (TESTE) — busca do tomador e lote.\n\nNa emissão, ao digitar o nome do tomador abre a lista dos clientes que batem com o que foi digitado; o botão \"últimos\" abre uma janela com campo de pesquisa.\n\nNa emissão em lote, os botões de adicionar tomador e importar ficam embaixo da lista, para não precisar subir a tela a cada tomador.\n\nNa tela inicial, cada aviso diz de qual empresa é.\n\nTraz tudo da 1.7.1. Esta é uma versão de TESTE, antes de ir para os clientes: anote o que estranhar e avise quem cuida do Emissor no escritório.",
+    "sha256": "4664d9fc1189ad7eab75cafadc050611a98a3521aa0a31e8883a83cd68199f57",
+    "tamanho": 62801376,
+    "notas": "Versão 1.7.3 (TESTE) — cidades, recusa e lote.\n\nNa emissão, o Local de prestação lista as cidades a partir da 3ª letra e vai afinando conforme você digita. Se a Receita recusar a nota, a tela volta com tudo preenchido para corrigir.\n\nNa conferência, a competência da nota aparece no alto e há um ✕ para fechar; o 'nota emitida' vira um aviso no canto. O XML do cancelamento fica guardado.\n\nNa emissão em lote, o comércio exterior de cada nota (moeda e cotação) abre numa janelinha própria.\n\nTraz tudo da 1.7.2. Esta é uma versão de TESTE, antes de ir para os clientes: anote o que estranhar e avise quem cuida do Emissor no escritório.",
     "obrigatoria": false
   },
-  "assinatura": "gjDIQKNTnIL18g9v+li1aSCHTwlm5SlxCrjUWje4L721CbQcnW/TAT4JCPFuawKwZIU4wWAdOK/wbi1Lo1jcVyth4vgg1KPt1tpY/BT/ZTupO+QusImtD6WPionUTSdwn0gd7NDYSXrnbkLz3taKXzKVrHAWdlrtVN1zrwg8VIAkM86yw834b0tnMl9PEitjzdiIsZmN/xEiZlJ1LKuO3CR9yVy98mLGzb1VgxqfkHXt9iQqP/G3vRHgwyO2WvN60SxW4nDraVuHWRJE0RtRYlnt20Jsk3BLEZVBzoY27+eR03QNG7GAT+Z1x8wm9Iauyv8Hf98p4gicstkfK+e0RA=="
+  "assinatura": "kRpGxDYZxHPcnbMdANVvokABXtC4lIZ1tzXqyiOCMrj4CI6QvBIT+KH7icGK+UvyPrrnBIr9jsWzmckTy3nyHHbTiMRyNgHiJPLkhttrcIVt2XSovyjG6rwtSEP14J9yxhjfmg2xlayANdGkIkyza23HtlaCTUw2IrGn1Zhp2CWnk5qryQl7HqYSntvMVLCewNUcfTwEZ2AgK+kb3Z+QLrfi2vLbYuGzB3cNQJ5ypZFxOCO2WHbLv6LNW1dRjmBVk8u0q120I3Xheb5i2765od7Vqpvi0dvzDITvshCN6fQ0dsCdxXg0vtpP93BkrNhatmjePLkIkTcOeIDG0ZbOZQ=="
 }
